@@ -1,0 +1,14 @@
+name: my_env
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - streamlit
+  - joblib
+  - seaborn
+  - matplotlib
+  - pillow
+  - opencv-python
+  - torch==1.10.0
+  - pip:
+    - detectron2
