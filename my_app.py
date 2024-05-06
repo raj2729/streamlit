@@ -3,6 +3,7 @@ import streamlit as st
 from joblib import load
 import seaborn as sns
 import matplotlib.pyplot as plt
+import torch, detectron2
 from PIL import Image
 import pickle
 import os
