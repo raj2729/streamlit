@@ -4,5 +4,5 @@ seaborn
 matplotlib
 pillow
 opencv-python
-pip3 install torch
+!pip3 install torch
 git+https://github.com/facebookresearch/detectron2.git
