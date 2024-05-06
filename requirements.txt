@@ -1,0 +1,7 @@
+streamlit
+joblib
+seaborn
+matplotlib
+pillow
+opencv-python
+detectron2
