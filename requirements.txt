@@ -4,5 +4,6 @@ seaborn
 matplotlib
 pillow
 opencv-python
+pytorch
 torch
 git+https://github.com/facebookresearch/detectron2.git
