@@ -1,4 +1,4 @@
-%%writefile my_app.py
+# %%writefile my_app.py
 import streamlit as st
 from joblib import load
 import seaborn as sns
