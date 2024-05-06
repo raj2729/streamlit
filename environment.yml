@@ -8,7 +8,7 @@ dependencies:
   - seaborn
   - matplotlib
   - pillow
-  - opencv-python
-  - torch==1.10.0
   - pip:
+    - opencv-python
+    - torch==1.10.0
     - detectron2
